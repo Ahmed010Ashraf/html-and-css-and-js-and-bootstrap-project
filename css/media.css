@@ -1,0 +1,75 @@
+@media (max-width: 767px) {
+  .lannding .container .cont p {
+    font-size: 30px;
+    right: 60px;
+  }
+  .nav-link{
+    color: black;
+  }
+  .container {
+    width: 100%;
+  }
+  .container .mynav {
+    padding: 20px 0;
+  }
+  .navbar .container button span {
+    font-size: 23px;
+  }
+  .navbar .container button {
+    box-shadow: none;
+    padding: 5px 10px;
+  }
+  ul {
+    padding: 0;
+  }
+  .services {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .contact .container form input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 992px) {
+  .navbar .container ul {
+    text-align: center;
+    background-color: white;
+    width: 100%;
+  }
+  .navbar .container ul li {
+    padding: 20px;
+  }
+  .navbar .container ul li a {
+    color: black;
+  }
+  .navbar .container ul li a::before {
+  }
+  .about {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .testimonials {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .protofolio {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .status {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .out-team {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .contact {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .about .container {
+    width: 100%;
+  }
+}
